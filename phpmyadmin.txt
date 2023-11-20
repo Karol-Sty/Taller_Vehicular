@@ -1,5 +1,5 @@
 Link phpmyadmin
-http://localhost/phpmyadmin5/index.php?route=/
+http://192.168.0.8/phpmyadmin5/index.php?route=/database/structure&db=taller
 
 Usuario
 root
