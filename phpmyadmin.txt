@@ -1,6 +1,9 @@
 Link phpmyadmin
 http://192.168.0.8/phpmyadmin/
 
+Link libreria
+https://www.mediafire.com/file/z5qc54cptcx7eos/Libreria+MYSQL.zip/file
+
 Usuario
 root
 
