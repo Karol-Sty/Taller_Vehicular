@@ -1,0 +1,15 @@
+Link phpmyadmin
+http://localhost/phpmyadmin5/index.php?route=/
+
+Usuario
+root
+
+Contraseña
+1234
+
+Nombre de la base de datos
+taller
+
+Tablas
+personal
+vehiculo
